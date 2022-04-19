@@ -1,0 +1,6 @@
+keras == 2.2.4
+numpy == 1.21.4
+sklearn == 1.0.1
+tensorflow == 2.2.0
+
+       
