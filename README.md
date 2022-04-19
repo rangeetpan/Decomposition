@@ -17,7 +17,7 @@ CIFAR-100, and ImageNet tiny datasets with three variations of
 ResNet models and found that enabling decomposition comes with
 a small cost (1.77\% and 0.85\% for top-1 and top-5 accuracy, respectively). Also, building a model by reusing or replacing modules can
 be done with a 2.3\% and 0.5\% average loss of accuracy. Furthermore,
-reusing and replacing these modules reducesCO2e emission by ∼37
+reusing and replacing these modules reduces CO2e emission by ∼37
 times compared to training the model from scratch.
 
 Due to the size issue, the code has been uploaded in Zenodo.
