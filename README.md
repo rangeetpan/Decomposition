@@ -1,4 +1,4 @@
-## On Decomposing a Deep Neural Network into Modules
+## Decomposing a Convolutional Neural Network into Modules
 
 Training from scratch is the most common way to build a Convolutional Neural Network (CNN) based model. What if we can build
 new CNN models by reusing parts from previously build CNN models? What if we can improve a CNN model by replacing (possibly
@@ -24,4 +24,4 @@ Due to the size issue, the code has been uploaded in Zenodo.
 
 
 ## DOI
-
+Will be updated
