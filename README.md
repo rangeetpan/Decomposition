@@ -23,5 +23,6 @@ times compared to training the model from scratch.
 Due to the size issue, the code has been uploaded in Zenodo.
 
 
-## DOI
-Will be updated
+## Link 
+Due to big size of the code, it has been moved to drive
+https://drive.google.com/file/d/1sZ0tMVKeePmdnc9tT3Et0-Fnb748W9mj/view?usp=sharing
